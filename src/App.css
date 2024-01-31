@@ -1,0 +1,33 @@
+body{
+
+    background-color: #222831;
+}
+.items{
+  
+    background-image: url('../src/assets/images/doodles\ mixed\ round.png');
+    height: 500px;
+    width: auto;
+    background-repeat: no-repeat;
+}
+.icons{
+    background-image: url('../src/assets/images/icons.png');
+    height: 400px;
+    width: auto;
+    background-repeat: no-repeat;
+}
+.print{
+    background-image: url('../src/assets/images/icons.png');
+    
+   
+}
+.bg{
+    background-image: url('../src/assets/images/icons.png');
+
+}
+.em{
+    color: #16868c;
+}
+.cosmoc{
+    background-color: rgba(21, 22, 27, 0.7); 
+
+}
